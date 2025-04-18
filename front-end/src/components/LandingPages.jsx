@@ -84,16 +84,16 @@ function LandingPages() {
             <section className="py-20 px-6 bg-amber-100 text-gray-800">
                 <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 text-center">
                     <div className="p-6 bg-amber-50 rounded-lg shadow-lg">
-                        <h3 className="text-xl font-bold mb-2 text-green-800">Fast Performance</h3>
-                        <p className="text-green-700">Optimized for speed and reliability across all devices.</p>
+                        <h3 className="text-xl font-bold mb-2 text-green-800">Luxury Stay</h3>
+                        <p className="text-green-700">Experience premium comfort in our elegantly designed hotel rooms and suites.</p>
                     </div>
                     <div className="p-6 bg-amber-50 rounded-lg shadow-lg">
-                        <h3 className="text-xl font-bold mb-2 text-green-800">Secure</h3>
-                        <p className="text-green-700">Top-notch security to protect your data and users.</p>
+                        <h3 className="text-xl font-bold mb-2 text-green-800">Fine Dining</h3>
+                        <p className="text-green-700">Enjoy world-class cuisine made with fresh, locally sourced ingredients.</p>
                     </div>
                     <div className="p-6 bg-amber-50 rounded-lg shadow-lg">
-                        <h3 className="text-xl font-bold mb-2 text-green-800">Easy to Use</h3>
-                        <p className="text-green-700">Intuitive interface that makes navigation a breeze.</p>
+                        <h3 className="text-xl font-bold mb-2 text-green-800">Exceptional Service</h3>
+                        <p className="text-green-700">Our friendly staff is dedicated to making your stay memorable and hassle-free.</p>
                     </div>
                 </div>
             </section>
@@ -103,7 +103,15 @@ function LandingPages() {
                 <div className="max-w-4xl mx-auto text-center">
                     <h2 className="text-3xl font-bold mb-4 text-green-800">About Us</h2>
                     <p className="text-lg text-green-700">
-                        We are a team of passionate developers, designers, and strategists committed to creating impactful digital experiences. Our goal is to help businesses grow by delivering innovative and user-friendly web solutions.
+                        Welcome to our hotel and restaurant — where comfort meets culinary delight. Nestled in the heart of the city, we have proudly served both travelers and locals with exceptional hospitality and unforgettable experiences.
+                        <br /><br />
+                        Our hotel offers a peaceful retreat with elegantly furnished rooms, modern amenities, and a warm, welcoming atmosphere that makes every guest feel at home. Whether you're visiting for business or leisure, our mission is to provide a restful and luxurious stay tailored to your needs.
+                        <br /><br />
+                        In addition to our accommodations, our on-site restaurant is a destination in itself. With a menu crafted by passionate chefs using only the freshest local ingredients, we serve a wide range of cuisines to delight every palate. From hearty breakfasts to gourmet dinners, every meal is prepared with care and attention to detail.
+                        <br /><br />
+                        Our dedicated team of staff is committed to delivering exceptional service, ensuring that every guest receives personalized care and attention from the moment they arrive. We believe that true hospitality lies in the details — and we strive to exceed expectations at every turn.
+                        <br /><br />
+                        Thank you for choosing us. We look forward to welcoming you and making your stay truly special.
                     </p>
                 </div>
             </section>
@@ -114,16 +122,22 @@ function LandingPages() {
                     <h2 className="text-3xl font-bold mb-12 text-green-800">Our Services</h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
                         <div className="p-6 bg-amber-50 rounded-lg shadow-lg">
-                            <h3 className="text-xl font-semibold mb-2 text-green-700">Web Development</h3>
-                            <p className="text-lg text-green-700">Custom websites tailored to your business needs with responsive and modern design.</p>
+                            <h3 className="text-xl font-semibold mb-2 text-green-700">Hotel Accommodations</h3>
+                            <p className="text-lg text-green-700">
+                                Enjoy a peaceful and luxurious stay in our well-appointed rooms, offering comfort, cleanliness, and modern amenities for all guests.
+                            </p>
                         </div>
                         <div className="p-6 bg-amber-50 rounded-lg shadow-lg">
-                            <h3 className="text-xl font-semibold mb-2 text-green-700">UI/UX Design</h3>
-                            <p className="text-lg text-green-700">User-centered design that enhances user engagement and satisfaction.</p>
+                            <h3 className="text-xl font-semibold mb-2 text-green-700">Fine Dining Restaurant</h3>
+                            <p className="text-lg text-green-700">
+                                Savor exquisite dishes prepared by experienced chefs, featuring local and international cuisines served in a cozy and elegant ambiance.
+                            </p>
                         </div>
                         <div className="p-6 bg-amber-50 rounded-lg shadow-lg">
-                            <h3 className="text-xl font-semibold mb-2 text-green-800">Consulting</h3>
-                            <p className="text-lg text-green-700">Professional advice and strategy to help guide your digital transformation.</p>
+                            <h3 className="text-xl font-semibold mb-2 text-green-800">Event & Catering Services</h3>
+                            <p className="text-lg text-green-700">
+                                Host unforgettable events with our professional catering, banquet facilities, and dedicated staff ready to make every occasion special.
+                            </p>
                         </div>
                     </div>
                 </div>
